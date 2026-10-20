@@ -1,2 +1,2 @@
 # studies
-Uncoverd game
+2D CS
